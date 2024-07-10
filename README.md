@@ -1,4 +1,4 @@
-# Robotics-Project
+# Robot Design for EN2553 Module Competetion
 
 This project was completed for the Semester 3 Robotics Design and Competition module of the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
@@ -11,6 +11,12 @@ Our team, "The Titans" consists of:
 🌟 Sandaru Liyanaarachchi  
 🌟 Pasindu Kulasingham  
 🌟 Dilshan Nuwantha  
+
+![Alt text](Images/team.jpg)
+
+## Our Robot
+
+![Alt text](Images/robot.jpg)
 
 ## Our Task
 
