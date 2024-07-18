@@ -37,4 +37,4 @@ For detailed information about our task, please refer to the attached PDF docume
 
 ## Team Achievements
 
-👏 Each member conquered challenges, turning them into triumphs! 🌟 Get ready to witness the Titan Robot revolution! 🚀🤖 
+👏 Each member conquered challenges, turning them into triumphs! 🌟 Get ready to witness the Titan Robot revolution! 🚀🤖
